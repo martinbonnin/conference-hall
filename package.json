@@ -39,7 +39,7 @@
     "react-places-autocomplete": "^7.2.0",
     "react-redux": "^5.1.0",
     "react-sizes": "^1.0.4",
-    "react-test-renderer": "^16.6.0",
+    "react-test-renderer": "^16.6.2",
     "redux": "^4.0.1",
     "redux-form": "^7.4.2",
     "redux-little-router": "^15.1.1",
